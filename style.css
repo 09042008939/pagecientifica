@@ -1,0 +1,27 @@
+body {
+  background: rgba(243, 204, 204, 0.9);
+}
+p {
+  color: black;
+  text-align: justify;
+  
+}
+h1 {
+  font-weight: bold;
+  font-family: sans-serif;
+  color: rgba(152, 125, 255, 0.8)
+  
+}
+
+img{
+  width:250px;
+  height:150px;
+}
+h2{
+  font-family:monospace;
+  border: 35px;
+  background-color: rgba(170, 245, 248, 0.75);
+}
+h3{
+  font-family:serif;
+}
